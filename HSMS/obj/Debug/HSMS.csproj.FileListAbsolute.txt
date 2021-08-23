@@ -1,0 +1,41 @@
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My work\New folder\HSMS\HSMS\bin\Debug\HSMS.exe.config
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\bin\Debug\HSMS.exe.config
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.csprojResolveAssemblyReference.cache
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.ContactUS.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.Home.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.Option.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.Properties.Resources.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.UserProfile.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.Whatweoffer.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.csproj.GenerateResource.Cache
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.WhyUs.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\bin\Debug\HSMS.exe
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\bin\Debug\HSMS.pdb
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.exe
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.pdb
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.UserRegistration.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.WorkersRegistration.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.WorkerProfile.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.Workerslogin.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.UserLogin.resources
+C:\Users\MONJUR\Desktop\Audio\HSMS\HSMS\obj\Debug\HSMS.LoginOption.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\bin\Debug\HSMS.exe.config
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.exe
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.pdb
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\bin\Debug\HSMS.exe
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\bin\Debug\HSMS.pdb
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.csprojResolveAssemblyReference.cache
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.ContactUS.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.Home.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.LoginOption.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.Workerslogin.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.UserLogin.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.Option.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.Properties.Resources.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.UserProfile.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.UserRegistration.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.Whatweoffer.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.WhyUs.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.WorkerProfile.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.WorkersRegistration.resources
+D:\AIUB ONLINE CLASS\5th Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\Final\My Work\HSMS\HSMS\obj\Debug\HSMS.csproj.GenerateResource.Cache
